@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+#board {
+  background-color: grey;
+  height: 50vh;
+  width: 50vh;
+  margin-top: 15px;
+  display: flex;
+  flex-wrap: wrap;
+}
